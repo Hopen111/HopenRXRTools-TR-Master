@@ -13,12 +13,12 @@
 
 1. First, download Python 3.0 from the offical python website: https://www.python.org/downloads/windows/
 
- MAKE SURE TO SPECIFICALLY DOWNLOAD "Windows installer (64-bit)" FOR VERSIONS 3.12.0 OR ABOVE OR PILLOW WILL NOT INSTALL!
+ MAKE SURE TO SPECIFICALLY DOWNLOAD "Windows installer (64-bit)" FOR VERSIONS 3.12.0 OR ABOVE!
 
 ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/53b5b10a-e91b-42a1-8acd-6f31522cd2ed)
 
 
-2. Next, download the HopenRXRTools "Source code (Zip)" from the [releases](https://github.com/Hopen111/HopenRXRTools/releases) tab on the right.
+2. Next, download the HopenRXRTools TR Master "Source code (Zip)" from the [releases](https://github.com/Hopen111/HopenRXRTools-TR-Master/releases/) tab on the right.
 
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/70a08f8d-6861-49cb-ba3c-faa9c9155dcc)
  
@@ -33,7 +33,7 @@
 
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/8a8aca43-f2e7-4849-a21d-b7ea0757337a)
 
-4. Check if Python installed correctly by running a script in the HopenRXRTools folder called "Empty Temporary Folder Junk"
+4. Check if Python installed correctly by running a script in the HopenRXRTools TR Master folder called "Empty Temporary Folder Junk"
 
 ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/7f6c6363-7ec3-475e-b6ca-cc0b51ed5b0c)
 
