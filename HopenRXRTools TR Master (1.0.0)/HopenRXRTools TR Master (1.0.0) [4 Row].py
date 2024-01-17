@@ -115,6 +115,14 @@ if index.find(""".style1 {
 }""") != -1:
     Info_Style = "style1"
 
+if index.find(""".style1 {
+    font-size: 10px;
+    font-weight: bold;
+    font-style: italic;
+    color: #FFFFFF;
+}""") != -1:
+    Info_Style = "style1"
+
 elif index.find(""".style2 {font-size: 10px}
 body,td,th {
 	color: #FFFFFF;
